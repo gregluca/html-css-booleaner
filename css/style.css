@@ -1,0 +1,19 @@
+#headimg {
+    background-color:rgb(78 160 255);
+    height: 130px;
+    background-image: url("../img/pattern.png");
+    background-size: 500px;
+    background-position-x:90px ;
+}
+#logo {
+    background-image: url("../img/logo.svg");
+    height: 130px;
+    background-repeat: no-repeat;
+    background-size: 220px;
+    background-position-y: 55px;
+    background-position-x:20px ;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
