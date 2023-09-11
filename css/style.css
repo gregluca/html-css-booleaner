@@ -39,3 +39,23 @@ main {
     margin: 0;
     font-size: 12px;
 }
+.lay {
+    background-color: yellow;
+}
+.lista {
+    padding: 12px;
+}
+.table {
+    text-align: left;
+    border-collapse: collapse;
+}
+.headrow {
+    color: white;
+    background-color: rgb(31 169 229) ;
+}
+.bodyrow {
+    background-color: rgb(177 229 242);
+}
+.spano {
+    width: 25%;
+}
