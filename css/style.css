@@ -11,9 +11,31 @@
     background-repeat: no-repeat;
     background-size: 220px;
     background-position-y: 55px;
-    background-position-x:20px ;
+    background-position-x:12px ;
 }
 body {
     margin: 0;
     padding: 0;
+}
+main {
+    margin-left: 12px;
+}
+.title p {
+    color: rgb(130 130 130);
+    margin: 0;
+    font-weight: bold;
+}
+.title h1 {
+    margin: 5px 0px;
+}
+.author {
+    color: rgb(42 172 230);
+    font-weight: bold;
+}
+.title {
+    margin-bottom: 20px;
+}
+.paragraf {
+    margin: 0;
+    font-size: 12px;
 }
